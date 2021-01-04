@@ -31,7 +31,7 @@ As the application is currently made as long the stock data were dynamic and con
 
 2017 Run Time Before:
  
-.328125 seconds
+.0625 seconds
 
 2017 Run Time After:
  
